@@ -2,7 +2,7 @@
 
 @section('konten')
     <div class="w-50 center border rounded px-3 py-3 mx-auto">
-        <h1>Login</h1>
+        <h1>Login Coba</h1>
         <form action="/sesi/login" method="POST">
             @csrf
             <div class="mb-3">
